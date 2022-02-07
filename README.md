@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋🏽 Dev - 
+
+My name is "Rascode" and I'm a fullstack / web3 developer. 
+
+Currently I'm working on:
+1. My Client facing IT business website
+2. My Developer focused website and blog (rascode.dev). + 
+3. My personal website that will serve as a roll-up of all my other sites / services.
+
+I'm looking to collaborate with anyone working in the Web3 space since I beleieve we learn + work best in community.  If that's you, feel free to shoot me a note - github@rascode.dev.
+
+
 
 <!--
 **rascode/rascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
