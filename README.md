@@ -1,6 +1,6 @@
 ### 👋🏽  Fellow Devz - 
 
-My name is "Rascode" and I'm a fullstack / web3 developer. 
+My name is "Rascode" and I'm a Fullstack / Web3 enthusiast + developer. 
 
 Currently I'm working on:
 1. My Client facing IT business website
