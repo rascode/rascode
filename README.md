@@ -9,7 +9,7 @@ Currently I'm working on:
 
 I'm looking to collaborate with anyone working in the Web3 space since I beleieve we learn + work best in community.  If that's you, feel free to shoot me a note - github@rascode.dev.
 
-
+#javascript #typscript #open-web #linked-data #semantic-markup #web3 #nft #low-code #nocode #airtable
 
 <!--
 **rascode/rascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
