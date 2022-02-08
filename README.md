@@ -1,6 +1,6 @@
 ## 👋🏽  Fellow Devz
 
-I'm <code>"Rascode"</code>, Fullstack / Web3 enthusiast + developer. 
+I'm <code>"Rascode"</code>, a Fullstack / Web3 enthusiast + developer. 
 
 ### Currently I'm working on:
 1. My Client facing IT business website
