@@ -1,4 +1,4 @@
-## 👋🏽  Fellow Devz - 
+## 👋🏽  Fellow Devz
 
 My name is "Rascode" and I'm a Fullstack / Web3 enthusiast + developer. 
 
