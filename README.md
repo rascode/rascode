@@ -1,4 +1,4 @@
-## 👋🏽  Fellow Devz ⚡
+###  Fellow Devz ⚡
 
 I'm <code>"Rascode"</code>, a Fullstack / Web3 enthusiast + developer. 
 
