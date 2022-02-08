@@ -5,7 +5,7 @@ I'm <code>"Rascode"</code>, a Fullstack / Web3 enthusiast + developer.
 ### Currently I'm working on:
 1. My client-facing branding + marketing consulting site (rascode.io)
 2. My developer-focused blog (rascode.dev)
-3. My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com).
+3. My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)
 
 I'm looking to collaborate with anyone working in the Web3 space since I beleieve we learn + work best in community.  If that's you, feel free to shoot me a note - github@rascode.dev.
 
