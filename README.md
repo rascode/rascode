@@ -1,13 +1,16 @@
-###  Fellow Devz ⚡
+## To all devs flaunting aria-labels, ☀️
+<br>
 
-I'm <code>"Rascode"</code> === Fullstack / Open + Semantic Web / API / Smart Contract / NFT / NoCode...developer. 
+I'm __*Rascode*__, Fullstack / Open + Semantic Web / API / Smart Contract / NFT / NoCode...developer. 
 
-### Currently I'm working on:
+
+### 🚧 _Currently working on:_
 1. My client-facing branding + marketing consulting site (rascode.io)
 2. My developer-focused blog (rascode.dev)
 3. My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)
 
-I'm looking to collaborate with anyone working in the Web3 space since I beleieve we learn + work best in community.  If that's you, feel free to shoot me a note - github@rascode.dev.
+###  __At the same time:__
+I'm looking to collaborate 👩🏾‍👧🏾‍👦🏾  with anyone working in the Web3 space since I beleieve we learn + work best in community.  If that's you, feel free to shoot me a note - github@rascode.dev.
 
 #javascript #typscript #open-web #linked-data #semantic-markup #web3 #nft #low-code #nocode #airtable
 
