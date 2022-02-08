@@ -1,4 +1,4 @@
-## To all devs flaunting aria-labels, ☀️
+## 👋🏽 devs w/ aria-labels, ☀️
 <br>
 
 I'm __*Rascode*__, Fullstack / Open + Semantic Web / API / Smart Contract / NFT / NoCode...developer. 
