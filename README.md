@@ -1,6 +1,6 @@
 ###  Fellow Devz ⚡
 
-I'm <code>"Rascode"</code>, a Fullstack / Web3 enthusiast + developer. 
+I'm <code>"Rascode"</code>, Fullstack / Web3 / API / Semantic Web / Crypto / NoCode...developer. 
 
 ### Currently I'm working on:
 1. My client-facing branding + marketing consulting site (rascode.io)
