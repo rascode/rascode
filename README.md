@@ -24,11 +24,12 @@ import {interests, stack, no_code, tooling} from 'rascode'
 <section class="building">
   <details open>
 	  <summary><strong> &nbsp; N O W _ B U I L D I N G 👷🏽 &nbsp;//</strong> </summary>
-    <br/>
+    	<br/>
     <ul>
-      <li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
-      <li>[ ] My developer-focused blog (rascode.dev)</li>
-      <li>[ ] My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)</li>
+		<li>[ ] My first smart contract using Solidity</li>
+      	<li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
+      	<li>[ ] My developer-focused blog (rascode.dev)</li>
+      	<li>[ ] My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)</li>
     </ul>
   </details>
 </section> <!-- end building section-->
