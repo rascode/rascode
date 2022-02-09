@@ -1,8 +1,9 @@
 
 # Rascode //
 
-<code> Fullstack // Open + Semantic Web // API // Smart Contracts // NFTs // NoCode // Developer </code>
-<br /><br />
+Freeing the Open Web, one bit at a time. 
+
+<br />
 
 <details>
   <summary> &nbsp; N O W &nbsp; B U I L D I N G &nbsp;// </summary>
