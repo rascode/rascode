@@ -1,12 +1,7 @@
+
 # 👋🏽 I'm Rascode
 
-Fullstack / Open + Semantic Web / API / Smart Contract / NFT / NoCode...developer. 
-
-<br />
-
-> "You are compensated in direct proportion to the problems you solve for others"
-> <br />
->  \- Wise Person
+Fullstack // Open + Semantic Web // API // Smart Contracts // NFTs // NoCode // Developer 
 
 <br />
 
@@ -15,7 +10,7 @@ Fullstack / Open + Semantic Web / API / Smart Contract / NFT / NoCode...develope
 - [ ] My developer-focused blog (rascode.dev)
 - [ ] My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)
 
-<hr /> 
+<br /> 
 
 #### // C  U  R  R  E  N  T  L  Y // 
 I'm looking to collaborate 👩🏾‍👧🏾‍👦🏾  with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to shoot me a note - collab@rascode.dev.
