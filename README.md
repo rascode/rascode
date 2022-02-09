@@ -1,7 +1,7 @@
 
-# 👋🏽 I'm Rascode
+# Rascode //
 
-Fullstack // Open + Semantic Web // API // Smart Contracts // NFTs // NoCode // Developer 
+⚡ Fullstack // Open + Semantic Web // API // Smart Contracts // NFTs // NoCode // Developer ⚡
 <br /><br />
 #### // C O N S T R U C T I N G //
 - [ ] My client-facing branding + marketing consulting site (rascode.io)
