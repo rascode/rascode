@@ -1,6 +1,7 @@
+<header>
+  <h1 align="right"> // rascode</h1>
+<header>
 
-
-# Rascode //
 <details open>
   <summary> <strong> &nbsp; A B O U T //</strong> </summary>
 <br/>
