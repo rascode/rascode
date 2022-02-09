@@ -45,12 +45,13 @@ const dev = require('rascode')
 	</details>
 </section><!--end collab section-->
 	
----
-	
-<details open>
-  <summary><strong> &nbsp; R E A C H _ O U T &nbsp; 😎 &nbsp; // </strong></summary>
-  <br/>
-  <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
-  <br/>
-</details>
+<hr>
+
+<section class="contact">
+	<details open>
+  		<summary><strong> &nbsp; R E A C H _ O U T &nbsp; 😎 &nbsp; // </strong></summary>
+  		<br/>
+  		<a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
+		</details>
+</section><!--end contact-->
 
