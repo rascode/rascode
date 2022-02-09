@@ -11,13 +11,12 @@ import {interests, stack, projects, collab} from 'rascode'
 ```
 
 ```javascript
-const name = require('rascode')
+const name = require( 'rascode' )
 
-{web3, css, html, javascript, typescript, DeFi, nfts}   = interests
-{html, css, javascript, typescript, postgres, jam}      = stack_programming_languages
-{github, gitlab, vscode, postman}                       = stack_dev_tools
-
-
+{ semantic web, open web, apis, web3, DeFi, nfts }        = interests
+{ html, css, javascript, typescript, postgres, jam }      = stack_programming_languages
+{ airtable, autocode }                                    = low_code+no_code
+{ github, gitlab, vscode, postman}                        = dev_tooling
 ```
 </details>
 
@@ -37,26 +36,15 @@ const name = require('rascode')
 </details>
 
 <details open>
-  <summary> &nbsp; C  U  R  R  E  N  T  L  Y &nbsp;// </summary>
+  <summary><strong> &nbsp; C O L L A B 🤜🏾 &nbsp; 🤛🏾 &nbsp //</strong> </summary>
   <br/>
-  <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to shoot me a note 📧 collab@rascode.dev.</p>
-  <br/>
-  
+  <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to 👇🏽 </p>
 </details>
 
+<details open>
+  <summary><strong> &nbsp; R E A C H _ O U T &nbsp; // </strong></summary>
+  <br/>
+    <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
+  <br/>
+</details>
 
-
-<!--
-**rascode/rascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
