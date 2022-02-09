@@ -40,7 +40,7 @@ import {interests, stack, no_code, tooling} from 'rascode'
 	<details open>
 		<summary><strong> &nbsp;  C O L L A B &nbsp; 🤜🏾 &nbsp;🤛🏾 &nbsp; //</strong> </summary>
 		<br/>
-		<p>Web3 is the future.  So looking forward, I want to collaborate with others in the space in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
+		<p>Web3 is the future.  So I'm looking to collaborate with others in the space in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
 	</details>
 </section><!--end collab section-->
 	
