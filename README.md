@@ -25,7 +25,7 @@ const dev = require('rascode')
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; N O W _ <em>B U I L D I N G</em> 👷🏽 &nbsp;//</strong> </summary>
+	  <summary><strong> &nbsp; N O W _ B U I L D I N G 👷🏽 &nbsp;//</strong> </summary>
     <br/>
     <ul>
       <li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
