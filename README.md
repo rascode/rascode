@@ -9,14 +9,12 @@
 	
 ```js
 // Freeing the Open Web, one bit at a time
-import {interests, stack, projects, collab} from 'rascode'	
-
-const dev = require('rascode')
+import {interests, stack, no_code, tooling} from 'rascode'	
 
 { semantic web, open web, apis, web3, DeFi, nfts }        = interests
-{ html, css, javascript, typescript, postgres, jam }      = stack_programming_languages
-{ airtable, autocode }                                    = low_code+no_code
-{ github, gitlab, vscode, postman}                        = dev_tooling
+{ html, css, javascript, typescript, postgres, jam }      = stack
+{ airtable, autocode }                                    = no_code
+{ github, gitlab, vscode, postman}                        = tooling
 ```
 </details>
 </section><!-- end about section-->
