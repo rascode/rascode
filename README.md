@@ -1,12 +1,33 @@
 
-# Rascode //
 
-Freeing the Open Web, one bit at a time. 
+# Rascode //
+<details open>
+  <summary> <strong> &nbsp; A B O U T //</strong> </summary>
+<br/>
+
+```js
+// Freeing the Open Web, one bit at a time.  
+import {interests, stack, projects, collab} from 'rascode'
+```
+
+```javascript
+const name = require('rascode')
+
+{web3, css, html, javascript, typescript, DeFi, nfts}   = interests
+{html, css, javascript, typescript, postgres, jam}      = stack_programming_languages
+{github, gitlab, vscode, postman}                       = stack_dev_tools
+
+
+```
+</details>
+
+
+
 
 <br />
 
-<details>
-  <summary> &nbsp; N O W &nbsp; B U I L D I N G &nbsp;// </summary>
+<details open>
+  <summary><strong> &nbsp; N O W &nbsp; B U I L D I N G &nbsp;//</strong> </summary>
   <br/>
   <ul>
     <li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
@@ -15,7 +36,7 @@ Freeing the Open Web, one bit at a time.
   </ul>
 </details>
 
-<details>
+<details open>
   <summary> &nbsp; C  U  R  R  E  N  T  L  Y &nbsp;// </summary>
   <br/>
   <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to shoot me a note 📧 collab@rascode.dev.</p>
