@@ -5,7 +5,7 @@
 <br /><br />
 
 <details>
-  <summary> &nbsp; //&nbsp; N O W &nbsp; B U I L D I N G &nbsp;// </summary>
+  <summary> &nbsp; N O W &nbsp; B U I L D I N G &nbsp;// </summary>
   <br/>
   <ul>
     <li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
@@ -15,8 +15,9 @@
 </details>
 
 <details>
-  <summary> &nbsp; //&nbsp; C  U  R  R  E  N  T  L  Y &nbsp;// </summary>
-  <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to shoot me a note - collab@rascode.dev.</p>
+  <summary> &nbsp; C  U  R  R  E  N  T  L  Y &nbsp;// </summary>
+  <br/>
+  <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to shoot me a note 📧 collab@rascode.dev.</p>
   <br/>
   
 </details>
