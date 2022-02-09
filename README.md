@@ -10,7 +10,7 @@
 // Freeing the Open Web, one bit at a time.  
 import {interests, stack, projects, collab} from 'rascode'	
 
-const name = require( 'rascode' )
+const dev = require('rascode')
 
 { semantic web, open web, apis, web3, DeFi, nfts }        = interests
 { html, css, javascript, typescript, postgres, jam }      = stack_programming_languages
@@ -34,19 +34,21 @@ const name = require( 'rascode' )
 </section> <!-- end building section-->
 	
 ---
-
-<details open>
-  <summary><strong> &nbsp; C O L L A B 🤜🏾 &nbsp; 🤛🏾 &nbsp //</strong> </summary>
-  <br/>
-  <p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to 👇🏽 </p>
-</details>
-
+	
+<section class="collab">
+	<details open>
+		<summary><strong> &nbsp; C O L L A B 🤜🏾 &nbsp; 🤛🏾 &nbsp //</strong> </summary>
+		<br/>
+		<p>I'm looking to collaborate with others in the Web3 space since I beleieve Web3 is the future we should learn and build together.  If that's you, feel free to 👇🏽 </p>
+	</details>
+</section><!--end collab section-->
+	
 ---
 	
 <details open>
   <summary><strong> &nbsp; R E A C H _ O U T &nbsp; // </strong></summary>
   <br/>
-    <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
+  <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
   <br/>
 </details>
 
