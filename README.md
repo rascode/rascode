@@ -21,7 +21,7 @@ const dev = require('rascode')
 </details>
 </section><!-- end about section-->
 
----
+<hr>
 	
 <section class="building">
   <details open>
@@ -35,7 +35,7 @@ const dev = require('rascode')
   </details>
 </section> <!-- end building section-->
 	
----
+<hr>
 	
 <section class="collab">
 	<details open>
