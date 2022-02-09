@@ -20,6 +20,7 @@ const name = require( 'rascode' )
 </details>
 
 ---
+	
 <section class="building">
   <details open>
     <summary><strong> &nbsp; N O W &nbsp; B U I L D I N G &nbsp;//</strong> </summary>
