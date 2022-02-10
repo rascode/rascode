@@ -1,5 +1,5 @@
 <header>
-	<h1 align="right">// rascode &nbsp;</h1>
+	<h1 align="right">// rascode.nft &nbsp;</h1>
 	<p align="right"> <em> I 🧡 &nbsp; <code>code</code></em> </p>
 <header>
 	
