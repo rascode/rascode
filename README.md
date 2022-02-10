@@ -1,7 +1,6 @@
 <header>
 	<h1 align="right">// rascode &nbsp;</h1>
-	<!--<div align="right"> <em><strong>justin.rascoe<strong> </em></div> -->
-	<!-- //todo: add images to the "banner" section that includes my name -->
+	<p align="right"> I ❤️ <em>code</em> </p>
 <header>
 	
 <section class="about">
