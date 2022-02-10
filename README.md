@@ -34,7 +34,7 @@ import {
 	  <summary><strong> &nbsp; n o w _ b u i l d i n g &nbsp;//</strong> </summary>
     	<br/>
     <ul>
-		<li>[ ] My first smart contract using Solidity</li>
+	<li>[ ] My first smart contract using Solidity</li>
       	<li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
       	<li>[ ] My developer-focused blog (rascode.dev)</li>
       	<li>[ ] My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)</li>
