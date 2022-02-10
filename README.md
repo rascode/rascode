@@ -4,7 +4,7 @@
 
 <section class="about">
 	<details open>
-		<summary> <strong> &nbsp; A B O U T &nbsp; // </strong></summary>
+		<summary> <strong> &nbsp; a b o u t &nbsp; // </strong></summary>
 	<br/>
 	
 ```js
@@ -31,7 +31,7 @@ import {
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; N O W _ B U I L D I N G &nbsp;//</strong> </summary>
+	  <summary><strong> &nbsp; n o w _ b u i l d i n g &nbsp;//</strong> </summary>
     	<br/>
     <ul>
 		<li>[ ] My first smart contract using Solidity</li>
@@ -46,9 +46,9 @@ import {
 	
 <section class="collab">
 	<details open>
-		<summary><strong> &nbsp;  C O L L A B &nbsp; //</strong> </summary>
+		<summary><strong> &nbsp;  c o n n e c t &nbsp; //</strong> </summary>
 		<br/>
-		<p>Web3 is the future.  So I'm looking to collaborate with others in the space in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
+		<p>Web3 is the future.  So I'm looking to connect and collaborate with like-minded web3 devs / enthusiasts in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
 	</details>
 </section><!--end collab section-->
 	
@@ -56,7 +56,7 @@ import {
 
 <section class="contact">
 	<details open>
-  		<summary><strong> &nbsp; R E A C H _ O U T // </strong></summary>
+  		<summary><strong> &nbsp; r e a c h _ o u t // </strong></summary>
   		<br/>
   		<a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
 		</details>
