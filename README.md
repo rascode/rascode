@@ -67,7 +67,7 @@ import {
 
 <section class="consulting">
 	<details open>
-  		<summary><strong> &nbsp; c o n s u l t i n g // </strong></summary>
+  		<summary><strong> &nbsp; c o n s u l t i n g &nbsp; // </strong></summary>
   		<br/>
 		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consulting@rascode.dev?subject=Github Collab">consulting@rascode.dev</a>
 		</details>
@@ -77,7 +77,7 @@ import {
 	
 <section class="contact">
 	<details open>
-  		<summary><strong> &nbsp; r e a c h _ o u t // </strong></summary>
+  		<summary><strong> &nbsp; r e a c h _ o u t &nbsp; // </strong></summary>
   		<br/>
   		📧 &nbsp; <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
 		</details>
