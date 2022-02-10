@@ -1,6 +1,6 @@
 <header>
 	<h1 align="right">// rascode &nbsp;</h1>
-	<p align="right"> I ❤️ <em>code</em> </p>
+	<p align="right"> <em> I ❤️ &nbsp; code</em> </p>
 <header>
 	
 <section class="about">
