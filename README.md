@@ -1,5 +1,5 @@
 <header>
-	<h1 align="right"><em>// rascode</em> &nbsp;</h1>
+	<h1 align="right">// rascode &nbsp;</h1>
 <header>
 
 <section class="about">
