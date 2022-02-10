@@ -42,7 +42,7 @@ import {
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; n o w _ b u i l d i n g &nbsp;//</strong> </summary>
+	  <summary><strong> &nbsp; f e b _ 2 - 2 2 _ p r o j e c t s &nbsp;//</strong> </summary>
     	<br/>
     <ul>
 	<li>[ ] My first smart contract using Solidity</li>
