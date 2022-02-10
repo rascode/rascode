@@ -27,7 +27,7 @@ import {
      { KeystonJS, SanityIO, Netlify, Github, Airtable }    =   _cms
 	    { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
 				     { Netlify, Vercel }   =   _serverless
-			{ Schema.org, JSON-ld, OpenAPI }   =   _structured_data
+	     { Schema.org, JSON-ld, RFA, RDFa, OpenAPI }   =   _structured_data
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
 				  { Bots, IVR , Twilio }   =   _dialouge
 ```
