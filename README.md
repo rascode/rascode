@@ -16,7 +16,7 @@ import {
 	_structured_data, _automation, _dialouge 
 } from 'rascode'	
 
-				{ Javascript, Solidity }   =   _languages
+			{ Javascript, Python, Solidity }   =   _languages
 			       { Eleventy, Remix, Next }   =   _frameworks
 				  { Postgres, Supabase }   =   _dbs
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
