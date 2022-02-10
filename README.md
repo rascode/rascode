@@ -65,6 +65,16 @@ import {
 	
 <hr>
 
+<section class="consulting">
+	<details open>
+  		<summary><strong> &nbsp; c o n s u l t i n g // </strong></summary>
+  		<br/>
+		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consulting@rascode.dev?subject=Github Collab">consulting@rascode.dev</a>
+		</details>
+</section>
+
+<hr>
+	
 <section class="contact">
 	<details open>
   		<summary><strong> &nbsp; r e a c h _ o u t // </strong></summary>
