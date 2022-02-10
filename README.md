@@ -3,8 +3,6 @@
 	<!--<div align="right"> <em><strong>justin.rascoe<strong> </em></div> -->
 	<!-- //todo: add images to the "banner" section that includes my name -->
 <header>
-
-<hr>
 	
 <section class="about">
 	<details open>
