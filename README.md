@@ -11,12 +11,13 @@
 ```js
 // Freeing the Open Web, one bit at a time
 import {
-	interests, web_services, stack, 
+	interests, frameworks, web_services, stack, 
 	no_code, tooling, serverless, 
 	semantic_data, automation, conversation 
 } from 'rascode'	
 
 { semantic_web, open_web, apis, web3, blockchain, nfts }   =   interests
+			       { Eleventy, Remix, Next }   =   frameworks
 			   	    { json, yaml, toml }   =   web_services
 						 { jam }   =   stack
 				  { airtable, autocode }   =   no_code
