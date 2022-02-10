@@ -79,6 +79,7 @@ import {
 	  <summary><strong> &nbsp; f e b _ 2 - 2 2 _ p r o j e c t s &nbsp;//</strong> </summary>
     	<br/>
     <ul>
+	<li>[x] Fortify Github Profile</li>
 	<li>[ ] My first smart contract using Solidity</li>
       	<li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
       	<li>[ ] My developer-focused blog (rascode.dev)</li>
