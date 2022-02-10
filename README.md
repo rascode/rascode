@@ -1,6 +1,6 @@
 <header>
 	<h1 align="right">// rascode &nbsp;</h1>
-	<small> justin rascoe </small>
+	<div align="right"> <em><strong>justin.rascoe<strong> </em></div>
 <header>
 
 <section class="about">
