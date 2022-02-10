@@ -20,13 +20,16 @@
 	reach out to me using my contact information 👇🏽 
 	
 	p.s. yes, they're clickable 😎
-	 
+
 ```
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <code>rascode //</code>
-	&nbsp; &nbsp;&nbsp;  <a href="mailto:consulting@rascode.dev?subject=1:1 Consultation Request">consulting@rascode.dev </a>
+<div align="center">
+<code>professional:</code>&nbsp;<a href="mailto:consulting@rascode.dev?subject=1:1 Consultation Request">consulting@rascode.dev </a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code>personal:</code>&nbsp; <a href="mailto:connect@rascode.dev?subject=1:1 Consultation Request">connect@rascode.dev </a>
 </details>
 	
 </section><!--end backstory-->
+</div>
 
 <hr/>
 
