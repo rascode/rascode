@@ -1,7 +1,28 @@
 <header>
 	<h1 align="right">// rascode&nbsp;</h1>
 	<p align="right"> <em> 🧡 &nbsp; <code>code</code></em> </p>
-<header>
+</header>
+
+<section class="backstory">
+<details open>
+	<summary><strong> &nbsp; b a c k s t o r y &nbsp;// </strong> </summary>
+	
+<br/>
+	
+```js 
+	👋🏽 Good People,
+			
+	I'm Justin aka "rascode".  I love all things web + web3 and I'm thankful 
+	that you stopped by my open idea lab here on Github.  I love meeting new people so 
+	if you have any questions about the myriad of 'imports' below, or if you're looking 
+	for a consultant for an upcoming project, I hope you'll reach out to me using 
+	my contact information below 👇🏽 
+	
+	rascode //
+```
+</details>
+	
+</section><!--end backstory-->
 	
 <section class="front_story">
 	<details open>
@@ -40,28 +61,7 @@ import {
 	   { Metamask, Phantom, Terra, Trust, Coinbase }   =   _wallets
 ```
 </details>
-</section><!-- end about section-->
-
-<hr>
-	
-<section class="backstory">
-<details open>
-	<summary><strong> &nbsp; b a c k s t o r y &nbsp;// </strong> </summary>
-	
-<br/>
-	
-```js 
-	👋🏽 Good People,
-			
-	I'm Justin aka "rascode".  I love all things web + web3 and I'm thankful 
-	that you stopped by my open idea lab here on Github.  I love meeting new people so 
-	if you have any questions about the myriad of imports above, or if you're looking 
-	for a consultant for an upcoming project, I hope you'll reach out to me using 
-	my contact information below. 
-```
-</details>
-	
-</section><!--end backstory-->
+</section><!-- end about section-->	
 
 <hr>
 	
