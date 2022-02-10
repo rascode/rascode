@@ -76,7 +76,7 @@ import {
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; 02 _ 2 - 2 2 _ p r o j e c t s &nbsp;//</strong> </summary>
+	  <summary><strong> &nbsp; p r o j e c t s &nbsp;//</strong> </summary>
     <br/>  
     <ul>
 	<li>[x] Fortify Github Profile</li>
