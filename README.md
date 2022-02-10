@@ -11,10 +11,10 @@
 // Freeing the Open Web, one bit at a time
 import {interests, stack, no_code, tooling} from 'rascode'	
 
-{ semantic_web, open_web, apis, web3, blockchain, nfts }  = interests
-{ html, css, javascript, typescript, postgres, jam }      = stack
-{ airtable, autocode }                                    = no_code
-{ github, gitlab, gitpod, vscode, postman}                = tooling
+{ semantic_web, open_web, apis, web3, blockchain, nfts } 	= interests
+{ jam }								= stack
+{ airtable, autocode }                                    	= no_code
+{ github, gitlab, gitpod, vscode, postman}                	= tooling
 ```
 </details>
 </section><!-- end about section-->
