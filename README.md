@@ -9,7 +9,11 @@
 	
 ```js
 // Freeing the Open Web, one bit at a time
-import {interests, web_service_protocols, stack, no_code, tooling, serverless, semantic_data, automation, conversation} from 'rascode'	
+import {
+	interests, web_service_protocols, stack, 
+	no_code, tooling, serverless, 
+	semantic_data, automation, conversation 
+} from 'rascode'	
 
 { semantic_web, open_web, apis, web3, blockchain, nfts } 	= interests
 { json, yaml, toml }						= web_services
