@@ -102,11 +102,11 @@ import {
 	
 <hr>
 
-<section class="consulting">
+<section class="consult">
 	<details open>
-  		<summary><strong> &nbsp; c o n s u l t i n g &nbsp; // </strong></summary>
+  		<summary><strong> &nbsp; c o n s u l t &nbsp; // </strong></summary>
   		<br/>
-		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consulting@rascode.dev?subject=Github Collab">consulting@rascode.dev</a>
+		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consult@rascode.dev?subject=Github Collab">consulting@rascode.dev</a>
 		</details>
 </section>
 
