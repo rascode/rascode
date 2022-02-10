@@ -18,7 +18,7 @@ import {
     _automation, _dialouge, _universities, _wallets
 		
 }   from 'rascode'	
-				    { Ethereum, Solana }   =   _blockchains
+			  { Algorand, Ethereum, Solana }   =   _blockchains
 			{ Javascript, Python, Solidity }   =   _languages
  		    { Eleventy, Next, React, Remix.run }   =   _frameworks
 				      { Gitpod, VSCode }   =   _editors
