@@ -76,8 +76,8 @@ import {
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; f e b _ 2 - 2 2 _ p r o j e c t s &nbsp;//</strong> </summary>
-    	<br/>
+	  <summary><strong> &nbsp; 02 _ 2 - 2 2 _ p r o j e c t s &nbsp;//</strong> </summary>
+    <br/>  
     <ul>
 	<li>[x] Fortify Github Profile</li>
 	<li>[ ] My first smart contract using Solidity</li>
@@ -85,6 +85,7 @@ import {
       	<li>[ ] My developer-focused blog (rascode.dev)</li>
       	<li>[ ] My personal-brand website that will serve as a roll-up for pretty much everything I am / think / write + do (justinrascoe.com)</li>
     </ul>
+	  
   </details>
 </section> <!-- end building section-->
 	
