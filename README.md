@@ -58,7 +58,7 @@ import {
 	<details open>
   		<summary><strong> &nbsp; r e a c h _ o u t // </strong></summary>
   		<br/>
-  		<a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
+  		📧 &nbsp; <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
 		</details>
 </section><!--end contact-->
 
