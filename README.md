@@ -18,13 +18,13 @@ import {
 
 { semantic_web, open_web, apis, web3, blockchain, nfts }   =   interests
 			       { Eleventy, Remix, Next }   =   frameworks
-			   	    { json, yaml, toml }   =   web_services
-						 { jam }   =   stack
-				  { airtable, autocode }   =   no_code
-	      { github, gitlab, gitpod, vscode, postman}   =   tooling
-				     { netlify, vercel }   =   serverless
-			 { schema.org, json-ld, openapi}   =   semantic_data
-				   { bots, ivr, twilio }   =   dialouge
+			   	    { JSON, YAML, TOML }   =   web_services
+						 { JAM }   =   stack
+				  { Airtable, Autocode }   =   no_code
+	       { Github, Gitlab, Gitpod, VSode, Postman}   =   tooling
+				     { Netlify, Vercel }   =   serverless
+			{ Schema.org, JSON-ld, OpenAPI }   =   semantic_data
+				  { Bots, IVR , Twilio }   =   dialouge
 ```
 </details>
 </section><!-- end about section-->
