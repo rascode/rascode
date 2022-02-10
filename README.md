@@ -12,18 +12,24 @@
 ```js 
 	👋🏽 Good People,
 			
-	I'm Justin aka "rascode".  I love all things web + web3 and I'm thankful 
-	that you stopped by my open idea lab here on Github.  I love meeting new people so 
-	if you have any questions about the myriad of 'imports' below, or if you're looking 
-	for a consultant for an upcoming project, I hope you'll reach out to me using 
-	my contact information below 👇🏽 
+	I'm Justin aka "rascode".  I love all things web + web3 and I'm so glad 
+	you stopped by my online labratory.  
 	
-	rascode //
+	I love meeting new people so if you have any questions about the myriad of 'imports' below 
+	-or- if you're looking for a consultant for a current or upcoming project, I hope you'll 
+	reach out to me using my contact information 👇🏽 
+	
+	p.s. yes, the links are clickable 😎
+	 
 ```
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <code>rascode //</code>
+	&nbsp; &nbsp;&nbsp;  <a href="mailto:consulting@rascode.dev?subject=1:1 Consultation Request">consulting@rascode.dev </a>
 </details>
 	
 </section><!--end backstory-->
-	
+
+<hr/>
+
 <section class="front_story">
 	<details open>
 		<summary> <strong> &nbsp; f r o n t _ s t o r y &nbsp; // </strong></summary>
