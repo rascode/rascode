@@ -17,7 +17,7 @@ import {
 } from 'rascode'	
 
 			{ Javascript, Python, Solidity }   =   _languages
-			       { Eleventy, Remix, Next }   =   _frameworks
+ 		    { Eleventy, Next, React, Remix.run }   =   _frameworks
 				      { Gitpod, VSCode }   =   _editors
   			  { Prisma, Postgres, Supabase }   =   _dbs
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
