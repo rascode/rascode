@@ -5,7 +5,7 @@
 	
 <section class="about">
 	<details open>
-		<summary> <strong> &nbsp; a b o u t &nbsp; // </strong></summary>
+		<summary> <strong> &nbsp; f r o n t _ s t o r y &nbsp; // </strong></summary>
 	<br/>
 	
 ```js
