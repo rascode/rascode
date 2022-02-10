@@ -11,20 +11,20 @@
 ```js
 // Freeing the Open Web, one bit at a time
 import {
-	_interests, _languages, _frameworks,_dbs, _web_services,
-	_web3, _stack, _no_code, _tooling, _serverless, 
+	_languages, _frameworks,_dbs, _web_services,
+	_web3, _stack, _tooling, _cms, _serverless, 
 	_structured_data, _automation, _dialouge 
 } from 'rascode'	
 
-{ semantic_web, open_web, apis, web3, blockchain, nfts }   =   _interests
 				{ Javascript, Solidity }   =   _languages
 			       { Eleventy, Remix, Next }   =   _frameworks
 				  { Postgres, Supabase }   =   _dbs
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
 	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
-				  { Airtable, Autocode }   =   _no_code
 	       { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
+     { KeystonJS, Sanity.io, Netlify, Github, Airtable }   =   _cms
+	    { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
 				     { Netlify, Vercel }   =   _serverless
 			{ Schema.org, JSON-ld, OpenAPI }   =   _structured_data
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
