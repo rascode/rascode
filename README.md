@@ -13,7 +13,7 @@
 import {
 		
     _languages, _frameworks,_editors, _data_modeling, 
-    _dbs, _web_services, _web3, _stack, _tooling, 
+    _databases, _web_services, _web3, _stack, _tooling, 
     _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge, _universities 
 		
 }   from 'rascode'	
@@ -22,7 +22,7 @@ import {
  		    { Eleventy, Next, React, Remix.run }   =   _frameworks
 				      { Gitpod, VSCode }   =   _editors
 			       { Prisma, Airtable, ERD }   =   _data_modeling
-  			  	  { Postgres, Supabase }   =   _dbs
+  			  	  { Postgres, Supabase }   =   _databases
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
 	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
