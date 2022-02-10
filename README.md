@@ -12,13 +12,13 @@
 // Freeing the Open Web, one bit at a time
 import {
 	_languages, _frameworks,_dbs, _web_services,
-	_web3, _stack, _tooling, _cms, _serverless, 
+	_web3, _stack, _tooling, _cms, _eCommerce, _serverless, 
 	_structured_data, _automation, _dialouge 
 } from 'rascode'	
 
 			{ Javascript, Python, Solidity }   =   _languages
 			       { Eleventy, Remix, Next }   =   _frameworks
-				  { Postgres, Supabase }   =   _dbs
+			{ Prisma, Postgres, Supabase }     =   _dbs
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
 	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
