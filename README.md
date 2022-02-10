@@ -14,7 +14,8 @@ import {
 		
     _languages, _frameworks,_editors, _data_modeling, 
     _databases, _web_services, _web3, _stack, _tooling, 
-    _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge, _universities, _wallets
+    _cms, _eCommerce, _productivity, _serverless, _structured_data, 
+    _automation, _dialouge, _universities, _wallets
 		
 }   from 'rascode'	
 
@@ -27,8 +28,9 @@ import {
 	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
 	       { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
-     { KeystonJS, SanityIO, Netlify, Github, Airtable }    =   _cms
+      { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
 	    { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
+			  { Fig, Raycast, TextExpander }   =   _productivity
 		       { Netlify, Vercel, Planet Scale }   =   _serverless 
 	     { Schema.org, JSON-ld, RFA, RDFa, OpenAPI }   =   _structured_data
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
