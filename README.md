@@ -94,7 +94,7 @@ import {
 	
 <section class="collab">
 	<details open>
-		<summary><strong> &nbsp;  c o n n e c t &nbsp; //</strong> </summary>
+		<summary><strong> &nbsp;  c o l l a b &nbsp; //</strong> </summary>
 		<br/>
 		<p>Web3 is the future.  So I'm looking to connect and collaborate with like-minded web3 devs / enthusiasts in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
 	</details>
