@@ -10,7 +10,7 @@
 ```js
 // Freeing the Open Web, one bit at a time
 import {
-	interests, web_service_protocols, stack, 
+	interests, web_services, stack, 
 	no_code, tooling, serverless, 
 	semantic_data, automation, conversation 
 } from 'rascode'	
