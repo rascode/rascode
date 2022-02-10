@@ -19,7 +19,7 @@
 	-or- if you're looking for a consultant for a current or upcoming project, I hope you'll 
 	reach out to me using my contact information 👇🏽 
 	
-	p.s. yes, the links are clickable 😎
+	p.s. yes, they're clickable 😎
 	 
 ```
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <code>rascode //</code>
