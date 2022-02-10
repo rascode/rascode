@@ -14,7 +14,7 @@ import {
 		
     _languages, _frameworks,_editors, _data_modeling, 
     _dbs, _web_services, _web3, _stack, _tooling, 
-    _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge 
+    _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge, _universities 
 		
 }   from 'rascode'	
 
@@ -33,6 +33,7 @@ import {
 	     { Schema.org, JSON-ld, RFA, RDFa, OpenAPI }   =   _structured_data
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
 				  { Bots, IVR , Twilio }   =   _dialouge
+		 { NCAT.edu, WFU.edu, Twitter, YouTube }   =   _universities
 ```
 </details>
 </section><!-- end about section-->
