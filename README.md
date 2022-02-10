@@ -106,17 +106,17 @@ import {
 	<details open>
   		<summary><strong> &nbsp; c o n s u l t &nbsp; // </strong></summary>
   		<br/>
-		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consult@rascode.dev?subject=Github Collab">consulting@rascode.dev</a>
+		<ins>Interesting project?</ins> &nbsp; <em>Let's talk about it 👉🏽 &nbsp; </em> <a href="mailto:consult@rascode.dev?subject=1:1 Consulting :: Gitlab Inquiry">consult@rascode.dev</a>
 		</details>
 </section>
 
 <hr>
 	
-<section class="contact">
+<section class="connect">
 	<details open>
-  		<summary><strong> &nbsp; r e a c h _ o u t &nbsp; // </strong></summary>
+  		<summary><strong> &nbsp; c o n n e c t &nbsp; // </strong></summary>
   		<br/>
-  		📧 &nbsp; <a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
+  		📧 &nbsp; <a href="mailto:justin@rascode.dev?subject=New Github Connection">justin@rascode.dev</a>
 		</details>
 </section><!--end contact-->
 
