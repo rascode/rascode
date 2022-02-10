@@ -11,7 +11,7 @@
 ```js
 // Freeing the Open Web, one bit at a time
 import {
-	_languages, _frameworks,_editors, _dbs, _web_services,
+	_languages, _frameworks,_editors, _data_modeling, _dbs, _web_services,
 	_web3, _stack, _tooling, _cms, _eCommerce, _serverless, 
 	_structured_data, _automation, _dialouge 
 } from 'rascode'	
@@ -19,7 +19,8 @@ import {
 			{ Javascript, Python, Solidity }   =   _languages
  		    { Eleventy, Next, React, Remix.run }   =   _frameworks
 				      { Gitpod, VSCode }   =   _editors
-  			  { Prisma, Postgres, Supabase }   =   _dbs
+			       { Prisma, Airtable, ERD }   =   _data_modeling
+  			  	  { Postgres, Supabase }   =   _dbs
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
 	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
