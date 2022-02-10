@@ -43,7 +43,7 @@
 import {
 		
     _blockchains, _languages, _frameworks,_editors, _data_modeling, 
-    _databases, _web_services, _web3, _stack, _tooling, 
+    _databases, _web_services, _web3, _dev_tools_web3, _stack, _tooling, 
     _cms, _eCommerce, _productivity, _prototyping, _serverless, _structured_data, 
     _automation, _dialouge, _universities, _wallets
 		
@@ -55,7 +55,8 @@ import {
 			       { Prisma, Airtable, ERD }   =   _data_modeling
   			  	  { Postgres, Supabase }   =   _databases
 		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
-	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
+	     		 { Smart Contracts, NFTs, IPFS }   =   _web3
+  	 { OpenZepplin, Hardhat, Truffle, Web3.storage }   =   _dev_tools_web3
 						 { JAM }   =   _stack
 	       { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
       { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
@@ -63,7 +64,7 @@ import {
 			  { Fig, Raycast, TextExpander }   =   _productivity
 			      { Browser, Framer, Figma }   =   _prototyping
 		       { Netlify, Vercel, Planet Scale }   =   _serverless 
-	     { Schema.org, JSON-ld, RFA, RDFa, OpenAPI }   =   _structured_data
+	     { Schema.org, JSON-LD, RDF, RDFa, OpenAPI }   =   _structured_data
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
 				  { Bots, IVR , Twilio }   =   _dialouge
 		 { NCAT.edu, WFU.edu, Twitter, YouTube }   =   _universities
