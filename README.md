@@ -11,19 +11,23 @@
 ```js
 // Freeing the Open Web, one bit at a time
 import {
-	_interests, _frameworks, _web_services, _stack, 
-	_no_code, _tooling, _serverless, 
-	_semantic_data, _automation, _conversation 
+	_interests, _languages, _frameworks,_dbs, _web_services,
+	_web3, _stack, _no_code, _tooling, _serverless, 
+	_structured_data, _automation, _dialouge 
 } from 'rascode'	
 
 { semantic_web, open_web, apis, web3, blockchain, nfts }   =   _interests
+				{ Javascript, Solidity }   =   _languages
 			       { Eleventy, Remix, Next }   =   _frameworks
-			   	    { JSON, YAML, TOML }   =   _web_services
+				  { Postgres, Supabase }   =   _dbs
+		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
+	    { Smart Contracts, NFTs, IPFS, OpenZepplin }   =   _web3
 						 { JAM }   =   _stack
 				  { Airtable, Autocode }   =   _no_code
 	       { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
 				     { Netlify, Vercel }   =   _serverless
-			{ Schema.org, JSON-ld, OpenAPI }   =   _semantic_data
+			{ Schema.org, JSON-ld, OpenAPI }   =   _structured_data
+	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
 				  { Bots, IVR , Twilio }   =   _dialouge
 ```
 </details>
