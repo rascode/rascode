@@ -4,7 +4,7 @@
 
 <section class="about">
 	<details open>
-		<summary> <strong> &nbsp; A B O U T &nbsp; 🤖 &nbsp; // </strong></summary>
+		<summary> <strong> &nbsp; A B O U T &nbsp; // </strong></summary>
 	<br/>
 	
 ```js
@@ -31,7 +31,7 @@ import {
 	
 <section class="building">
   <details open>
-	  <summary><strong> &nbsp; N O W _ B U I L D I N G 👷🏽 &nbsp;//</strong> </summary>
+	  <summary><strong> &nbsp; N O W _ B U I L D I N G &nbsp;//</strong> </summary>
     	<br/>
     <ul>
 		<li>[ ] My first smart contract using Solidity</li>
@@ -46,7 +46,7 @@ import {
 	
 <section class="collab">
 	<details open>
-		<summary><strong> &nbsp;  C O L L A B &nbsp; 🤜🏾 &nbsp;🤛🏾 &nbsp; //</strong> </summary>
+		<summary><strong> &nbsp;  C O L L A B &nbsp; //</strong> </summary>
 		<br/>
 		<p>Web3 is the future.  So I'm looking to collaborate with others in the space in order to learn, build and grow together.  If that's you, then 👇🏾 </p>
 	</details>
@@ -56,7 +56,7 @@ import {
 
 <section class="contact">
 	<details open>
-  		<summary><strong> &nbsp; R E A C H _ O U T &nbsp; 😎 &nbsp; // </strong></summary>
+  		<summary><strong> &nbsp; R E A C H _ O U T // </strong></summary>
   		<br/>
   		<a href="mailto:justin@rascode.dev?subject=Github Collab">justin@rascode.dev</a>
 		</details>
