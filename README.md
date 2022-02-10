@@ -15,14 +15,14 @@ import {
 	semantic_data, automation, conversation 
 } from 'rascode'	
 
-{ semantic_web, open_web, apis, web3, blockchain, nfts } 	= interests
-{ json, yaml, toml }						= web_services
-{ jam }								= stack
-{ airtable, autocode }                                    	= no_code
-{ github, gitlab, gitpod, vscode, postman}                	= tooling
-{ netlify, vercel }						= serverless
-{ schema.org, json-ld, openapi}					= semantic_data
-{ bots, ivr, twilio }						= dialouge
+{ semantic_web, open_web, apis, web3, blockchain, nfts }   =   interests
+			   	    { json, yaml, toml }   =   web_services
+						 { jam }   =   stack
+				  { airtable, autocode }   =   no_code
+	      { github, gitlab, gitpod, vscode, postman}   =   tooling
+				     { netlify, vercel }   =   serverless
+			 { schema.org, json-ld, openapi}   =   semantic_data
+				   { bots, ivr, twilio }   =   dialouge
 ```
 </details>
 </section><!-- end about section-->
