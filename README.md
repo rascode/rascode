@@ -14,7 +14,7 @@ import {
 		
     _languages, _frameworks,_editors, _data_modeling, 
     _databases, _web_services, _web3, _stack, _tooling, 
-    _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge, _universities 
+    _cms, _eCommerce, _serverless, _structured_data, _automation, _dialouge, _universities, _wallets
 		
 }   from 'rascode'	
 
@@ -34,6 +34,7 @@ import {
 	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
 				  { Bots, IVR , Twilio }   =   _dialouge
 		 { NCAT.edu, WFU.edu, Twitter, YouTube }   =   _universities
+	   { Metamask, Phantom, Terra, Trust, Coinbase }   =   _wallets
 ```
 </details>
 </section><!-- end about section-->
