@@ -83,6 +83,7 @@ import {
     <br/>  
     <ul>
 	<li>[x] Fortify Github Profile</li>
+	<li>[ ] Crypto Wallet Site</li>
 	<li>[ ] My first smart contract using Solidity</li>
       	<li>[ ] My client-facing branding + marketing consulting site (rascode.io)</li>
       	<li>[ ] My developer-focused blog (rascode.dev)</li>
