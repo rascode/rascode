@@ -50,7 +50,7 @@ import {
     _automation, _dialouge, _universities, _wallets
 		
 }   from 'rascode'	
-	    { Algorand, XRP, Stellar, Ethereum, Solana }   =   _blockchains
+	    { Algorand, Ethereum, Solana, Stellar, XRP }   =   _blockchains
 			{ Javascript, Python, Solidity }   =   _languages
  		    { Eleventy, Next, React, Remix.run }   =   _frameworks
 				      { Gitpod, VSCode }   =   _editors
