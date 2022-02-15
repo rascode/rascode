@@ -1,6 +1,5 @@
 <header>
 	<h1 align="right">// <a href="https://rascode.dev">rascode.dev</a> &nbsp;</h1>
-	<p align="right"> <em> 🧡 &nbsp; <code>code</code></em> </p>
 </header>
 
 <section class="backstory">
@@ -10,7 +9,7 @@
 <br/>
 	
 ```js 
-	👋🏽 Good People,
+	👋🏽 Good People,                   									🧡 code 
 			
 	I'm Justin aka "rascode".  I love 
 	all things web + web3 and I'm so glad 
