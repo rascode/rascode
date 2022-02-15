@@ -9,7 +9,7 @@
 <br/>
 	
 ```js 
-	👋🏽 Good People,                   									🧡 code 
+	👋🏽 Good People,                   								🧡 code 
 			
 	I'm Justin aka "rascode".  I love 
 	all things web + web3 and I'm so glad 
