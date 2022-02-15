@@ -12,12 +12,17 @@
 ```js 
 	👋🏽 Good People,
 			
-	I'm Justin aka "rascode".  I love all things web + web3 and I'm so glad 
+	I'm Justin aka "rascode".  I love 
+	all things web + web3 and I'm so glad 
 	you stopped by my online labratory.  
 	
-	I love meeting new people so if you have any questions about the myriad of 'imports' below 
-	-or- if you're looking for a consultant for a current or upcoming project, I hope you'll 
-	reach out to me using my contact information 👇🏽 
+	I love meeting new people so if you 
+	have any questions about the myriad of 
+	'imports' below -or- if you're 
+	looking for a consultant 
+	for a current or upcoming project, 
+	I hope you'll reach out to me using my 
+	contact information 👇🏽 
 	
 	p.s. yes, they're clickable 😎
 
