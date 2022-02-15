@@ -30,8 +30,6 @@
 <code>professional:</code>&nbsp;&nbsp;<a href="mailto:consult@rascode.dev?subject=1:1 Consultation via Github">consult@rascode.dev </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code>personal:</code>&nbsp;&nbsp;<a href="mailto:connect@rascode.dev?subject=1:1 New Github Connection">connect@rascode.dev</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code>spam:</code>&nbsp;&nbsp;<a href="mailto:spam@you.dev?subject=Not Today">spam@you.dev </a>
 </details>
 	
 </section><!--end backstory-->
