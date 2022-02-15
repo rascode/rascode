@@ -23,7 +23,7 @@
 	I hope you'll reach out to me using my 
 	contact information 👇🏽 
 	
-	p.s. yes, they're clickable 😎
+	p.s. yes, the email links are clickable 😎
 
 ```
 <div align="center">
