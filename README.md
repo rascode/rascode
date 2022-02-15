@@ -19,8 +19,7 @@
 	I love meeting new people so if you 
 	have any questions about the myriad of 
 	'imports' below -or- if you're 
-	looking for a consultant 
-	for a current or upcoming project, 
+	looking for a consultant, 
 	I hope you'll reach out to me using my 
 	contact information 👇🏽 
 	
