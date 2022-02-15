@@ -53,27 +53,27 @@ import {
     _automation, _dialouge, _universities, _wallets
 		
 }   from 'rascode'	
-	    { Algorand, Ethereum, Solana, Stellar, XRP }   =   _blockchains
-			{ Javascript, Python, Solidity }   =   _languages
- 		    { Eleventy, Next, React, Remix.run }   =   _frameworks
-				      { Gitpod, VSCode }   =   _editors
-			       { Prisma, Airtable, ERD }   =   _data_modeling
-  			  	  { Postgres, Supabase }   =   _databases
-		     { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
-	     		 { Smart Contracts, NFTs, IPFS }   =   _web3
-  	 { OpenZepplin, Hardhat, Truffle, Web3.storage }   =   _dev_tools_web3
-						 { JAM }   =   _stack
-	       { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
-      { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
-	    { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
-			  { Fig, Raycast, TextExpander }   =   _productivity
-			      { Browser, Framer, Figma }   =   _prototyping
-		       { Netlify, Vercel, Planet Scale }   =   _serverless 
-	     { Schema.org, JSON-LD, RDF, RDFa, OpenAPI }   =   _structured_data
-	     { Airtable, Autocode, Integromat, Zappier }   =   _automation
-				  { Bots, IVR , Twilio }   =   _dialouge
-		 { NCAT.edu, WFU.edu, Twitter, YouTube }   =   _universities
-	   { Metamask, Phantom, Terra, Trust, Coinbase }   =   _wallets
+	      { Algorand, Ethereum, Solana, Stellar, XRP }   =   _blockchains
+		          { Javascript, Python, Solidity }   =   _languages
+ 		      { Eleventy, Next, React, Remix.run }   =   _frameworks
+				        { Gitpod, VSCode }   =   _editors
+			         { Prisma, Airtable, ERD }   =   _data_modeling
+  			  	    { Postgres, Supabase }   =   _databases
+		       { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
+ { Smart Contracts, Accord Project, NFTs, IPFS, Open Zep }   =   _web3
+           { OpenZepplin, Hardhat, Truffle, Web3.storage }   =   _dev_tools_web3
+						   { JAM }   =   _stack
+	         { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
+        { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
+	      { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
+			    { Fig, Raycast, TextExpander }   =   _productivity
+			        { Browser, Framer, Figma }   =   _prototyping
+		         { Netlify, Vercel, Planet Scale }   =   _serverless 
+	       { Schema.org, JSON-LD, RDF, RDFa, OpenAPI }   =   _structured_data
+	       { Airtable, Autocode, Integromat, Zappier }   =   _automation
+				    { Bots, IVR , Twilio }   =   _dialouge
+		   { NCAT.edu, WFU.edu, Twitter, YouTube }   =   _universities
+	     { Metamask, Phantom, Terra, Trust, Coinbase }   =   _wallets
 ```
 </details>
 </section><!-- end about section-->	
