@@ -2,6 +2,12 @@
 	<h1 align="right">// <a href="https://rascode.dev">rascode.dev</a> &nbsp;</h1>
 </header>
 
+<p align="right">
+  <a aria-label="Follow rascode on Twitter //" href="https://twitter.com/_rascode">
+    <img alt="" src="https://img.shields.io/badge/Follow%20@_rascode-white.svg?style=for-the-badge&logo=Twitter">
+  </a>
+</p>
+
 <section class="backstory">
 <details open>
 	<summary><strong> &nbsp; b a c k s t o r y &nbsp;// </strong> </summary>
