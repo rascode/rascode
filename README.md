@@ -3,12 +3,13 @@
 </header>
 
 <p align="right">
-  <a aria-label="Follow rascode on Twitter //" href="https://twitter.com/_rascode">
-    <img alt="" src="https://img.shields.io/badge/Follow%20@_rascode-white.svg?style=for-the-badge&logo=Twitter">
-  </a>
-	  <a aria-label="Connect rascode on LinkedIn //" href="https://twitter.com/_rascode">
+<a aria-label="Connect rascode on LinkedIn //" href="https://twitter.com/_rascode">
     <img alt="" src="https://img.shields.io/badge/Connect%20@_rascode-white.svg?style=for-the-badge&logo=LinkedIn&logoColor=rgb(0,114,177)">
-  </a>
+  </a>&nbsp;
+  <a aria-label="Follow rascode on Twitter" href="https://twitter.com/_rascode">
+    <img alt="" src="https://img.shields.io/badge/Follow%20@_rascode-white.svg?style=for-the-badge&logo=Twitter">
+  </a> 
+
 </p>
 
 <section class="backstory">
