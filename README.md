@@ -3,11 +3,11 @@
 </header>
 
 <p align="right">
-<a aria-label="Connect rascode on LinkedIn //" href="https://twitter.com/_rascode">
-    <img alt="" src="https://img.shields.io/badge/Connect%20@_rascode-white.svg?style=for-the-badge&logo=LinkedIn&logoColor=rgb(0,114,177)">
-  </a>&nbsp;
+<a aria-label="Connect rascode on LinkedIn //" href="https://linkedin.com/in/rascode">
+    <img alt="" src="https://img.shields.io/badge/Connect-white.svg?style=for-the-badge&logo=LinkedIn&logoColor=rgb(0,114,177)">
+  </a>
   <a aria-label="Follow rascode on Twitter" href="https://twitter.com/_rascode">
-    <img alt="" src="https://img.shields.io/badge/Follow%20@_rascode-white.svg?style=for-the-badge&logo=Twitter">
+    <img alt="" src="https://img.shields.io/badge/Follow-white.svg?style=for-the-badge&logo=Twitter">
   </a> 
 
 </p>
@@ -19,7 +19,7 @@
 <br/>
 	
 ```js 
-	👋🏽 Good People,                   								🧡 code 
+	👋🏽 Good People,                   								 
 			
 	I'm Justin aka "rascode".  I love 
 	all things web + web3 and I'm so glad 
