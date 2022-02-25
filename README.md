@@ -72,7 +72,7 @@ import {
  { Smart Contracts, Accord Project, NFTs, IPFS, Open Zep }   =   _web3
            { OpenZepplin, Hardhat, Truffle, Web3.storage }   =   _dev_tools_web3
 						   { JAM }   =   _stack
-	         { Github, Gitlab, Gitpod, VSode, Postman}   =   _tooling
+	{ Github, Gitlab, Gitpod, StepZen, VSode, Postman}   =   _tooling
         { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
 	      { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
 			    { Fig, Raycast, TextExpander }   =   _productivity
