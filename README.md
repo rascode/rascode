@@ -71,7 +71,7 @@ import {
 		       { REST, GraphQl, JSON, YAML, TOML }   =   _web_services
  { Smart Contracts, Accord Project, NFTs, IPFS, Open Zep }   =   _web3
            { OpenZepplin, Hardhat, Truffle, Web3.storage }   =   _dev_tools_web3
-						   { JAM }   =   _stack
+	        { HTML + CSS + Javascript + APIs === JAM }   =   _stack
 	{ Github, Gitlab, Gitpod, StepZen, VSode, Postman}   =   _tooling
         { KeystonJS, SanityIO, Netlify, Github, Airtable }   =   _cms
 	      { Shopify, Stripe, CommerceJS, BigCommerce }   =   _eCommerce
