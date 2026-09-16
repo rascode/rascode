@@ -11,7 +11,7 @@ export interface ObituaryDrafter {
  */
 export class TemplateObituaryDrafter implements ObituaryDrafter {
   async draft (context: DraftContext): Promise<DraftResult> {
-    const { biography, tone, length, promptNotes } = context
+    const { biography, tone, length } = context
     const name = displayName(biography)
     const lifespan = formatLifespan(biography)
     const headline = `${name}${lifespan ? ` (${lifespan})` : ''}`
@@ -24,10 +24,6 @@ export class TemplateObituaryDrafter implements ObituaryDrafter {
       survivorsSentence(biography),
       serviceSentence(context),
     ].filter(Boolean)
-
-    if (promptNotes?.trim()) {
-      paragraphs.push(`Family notes reflected in this draft: ${promptNotes.trim()}`)
-    }
 
     let body = paragraphs.join('\n\n')
     if (length === 'short') {
