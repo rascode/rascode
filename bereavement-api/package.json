@@ -1,0 +1,30 @@
+{
+  "name": "@rascode/bereavement-api",
+  "version": "0.1.0",
+  "description": "Bereavement arrangements API for dbui — gather documents, beloved biography, AI obituaries, and service PDF packages",
+  "type": "module",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "node --watch --experimental-strip-types src/server.ts",
+    "start": "node --experimental-strip-types src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test test/**/*.test.ts",
+    "lint": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "@fastify/multipart": "^9.0.3",
+    "@sinclair/typebox": "^0.34.33",
+    "fastify": "^5.3.3",
+    "fastify-plugin": "^6.0.0",
+    "pdfkit": "^0.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "@types/pdfkit": "^0.13.9",
+    "typescript": "^5.8.3"
+  }
+}
